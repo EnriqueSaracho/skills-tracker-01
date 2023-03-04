@@ -1,0 +1,29 @@
+{
+  "name": "skills-tracker-01",
+  "version": "1.0.0",
+  "description": "A skills-tracker app using the MERN stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnriqueSaracho/skills-tracker-01.git"
+  },
+  "keywords": [
+    "[\"MERN\"",
+    "\"skill",
+    "tracker\"",
+    "\"web",
+    "development\"",
+    "\"MongoDB\"",
+    "\"Node.js\"",
+    "\"React\"]"
+  ],
+  "author": "\"Enrique Saracho Felix <esarachof97@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EnriqueSaracho/skills-tracker-01/issues"
+  },
+  "homepage": "https://github.com/EnriqueSaracho/skills-tracker-01#readme"
+}
