@@ -27,3 +27,6 @@ This repository (skills-tracker-01) is the same project as skills-tracker. The d
   - ChatGPT guided me through the hole process of 'npm init' and creating the 'package.json' file.
 
 - Can't find the dependencies in the package.json file. Don't know how to and which ones to download. Apparently 'npm install' didn't work correctly.
+
+  - The reason was skipping the part about specifying the dependencies in the package.json folder.
+  - Found a great guide in the MongoDB website for creating a MERN Stack Application. It organizes the directory in two parts: server and client. Found this an excellent way to organize the project, to do so I will have to create a new repository (skills-tracker-02). Since I'm only in the setting up part, it won't be to much trouble.
