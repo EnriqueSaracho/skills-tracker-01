@@ -20,3 +20,6 @@ This repository (skills-tracker-01) is the same project as skills-tracker. The d
   - Modified addToList(), instead of text, the function adds an object "newTask" with a task element that equals text, and a skills object with all the checkboxes boolean values.
 
 - Rendering the skills value for each item
+
+- Decided at this point to work first on the backend portion of the app.
+  - Asked ChatGPT how to create a MERN app. The first steps are working with the backend, specifically initialize it with npm.
