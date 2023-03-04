@@ -23,3 +23,4 @@ This repository (skills-tracker-01) is the same project as skills-tracker. The d
 
 - Decided at this point to work first on the backend portion of the app.
   - Asked ChatGPT how to create a MERN app. The first steps are working with the backend, specifically initialize it with npm.
+  - ChatGPT guided me through the hole process of 'npm init' and creating the 'package.json' file.
